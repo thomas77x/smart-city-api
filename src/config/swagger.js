@@ -9,8 +9,8 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: 'http://localhost:3000',
-                description: 'Servidor Local',
+                url: 'https://smart-city-api-hro6.onrender.com',
+                description: 'Server Render',
             },
         ],
     },
